@@ -4,10 +4,9 @@ Projeto desenvolvido para a atividade de **React + Vite + React Router**, recria
 
 ## Integrantes
 
-- Integrante 1: **[COLOQUE O NOME]**
-- Integrante 2: **[COLOQUE O NOME]**
+Ana Luíza Machado de Andrade
+Bárbara Gonçalves de Araújo
 
-> Antes da entrega, substitua os campos acima pelos nomes reais da dupla.
 
 ## Tecnologias
 
